@@ -4,3 +4,4 @@ aiohttp==3.9.1
 psutil==5.9.6
 flyerapi==1.0.0
 matplotlib==3.7.0
+database
