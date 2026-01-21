@@ -31,3 +31,4 @@ pytz==2024.2
 six==1.17.0
 yarl==1.18.3
 flyerapi
+database
